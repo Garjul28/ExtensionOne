@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Extension One</Name>
+		<Assembly>C:\Revit API\ExtensionOne\ExtensionOne\bin\Debug\ExtensionOne.dll</Assembly>
+		<AddInId>8BCD4D08-D179-486F-B9BC-C2F64D787E97</AddInId>
+		<FullClassName>ExtensionOne.App</FullClassName>
+		<VendorId>H Inzali</VendorId>
+		<VendorDescription>Your Company Information</VendorDescription>
+	</AddIn>
+</RevitAddIns>
